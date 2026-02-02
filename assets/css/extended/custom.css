@@ -74,7 +74,7 @@ h3 {
 /* Profile mode - clean and sophisticated */
 .profile {
   text-align: left;
-  padding: 4rem 2rem;
+  padding: 4rem 2rem 2rem;
   max-width: 800px;
   margin: 0 auto;
 }
@@ -82,9 +82,20 @@ h3 {
 .profile .profile_inner {
   display: flex;
   flex-direction: row;
-  align-items: center;
+  align-items: flex-start;
   gap: 3rem;
   text-align: left;
+}
+
+.profile_left {
+  flex-shrink: 0;
+}
+
+.profile_right {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
 }
 
 .profile img {
@@ -101,24 +112,23 @@ h3 {
   transform: scale(1.02);
 }
 
-.profile .profile_inner > div {
-  flex: 1;
-}
-
-.profile .profile_inner h1 {
+.profile h1 {
   font-size: 2.5em;
   margin-bottom: 0.3em;
   font-weight: 600;
   letter-spacing: -0.03em;
 }
 
-.profile .profile_inner span {
+.profile span {
   font-size: 1.15em;
   color: var(--text-secondary);
   font-weight: 400;
   line-height: 1.6;
   display: block;
-  margin-bottom: 1.5rem;
+}
+
+.profile_social {
+  margin-top: 0.5rem;
 }
 
 /* Button styling - minimal */
@@ -333,27 +343,47 @@ a:hover {
 
 /* Mobile responsive */
 @media (max-width: 768px) {
+  .profile {
+    padding: 2rem 1.5rem;
+  }
+  
   .profile .profile_inner {
     flex-direction: column;
     text-align: center;
-    gap: 2rem;
+    gap: 1.5rem;
   }
   
-  .profile .profile_inner h1 {
-    font-size: 2em;
+  .profile_right {
+    align-items: center;
+    gap: 1rem;
+  }
+  
+  .profile h1 {
+    font-size: 1.8em;
+  }
+  
+  .profile span {
+    font-size: 1.05em;
   }
   
   .profile img {
-    width: 150px;
-    height: 150px;
+    width: 140px;
+    height: 140px;
   }
   
   .buttons {
     justify-content: center;
+    margin-top: 0.5rem;
   }
   
   .button {
-    margin: 6px;
+    margin: 4px;
+    padding: 8px 20px;
+    font-size: 0.85em;
+  }
+  
+  .profile_social {
+    margin-top: 0.5rem;
   }
   
   .post-entry {
