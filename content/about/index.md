@@ -6,7 +6,7 @@ draft: false
 
 ## James Merrill
 
-**Chief Operating Officer at [Future Present Labs](https://futurepresentlabs.com)**
+**Chief Operating Officer at [Future Present Labs](https://fpl.dev)**
 
 > Building the infrastructure for agentic American manufacturing — from our headquarters in Seattle.
 
@@ -48,6 +48,6 @@ Curated luxury experiences in Bellevue and Seattle, operating a private speakeas
 ### Connect
 
 - [LinkedIn](https://linkedin.com/in/james-merrill)
-- [Future Present Labs](https://futurepresentlabs.com)
+- [Future Present Labs](https://fpl.dev)
 
 Always interested in conversations about manufacturing, operations, and building businesses.

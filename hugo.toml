@@ -48,7 +48,7 @@ theme = 'PaperMod'
 
   [params.homeInfoParams]
     Title = "Hi, I'm James 👋"
-    Content = "COO at [Future Present Labs](https://futurepresentlabs.com). I write about operations, manufacturing strategy, and building things that matter."
+    Content = "COO at [Future Present Labs](https://fpl.dev). I write about operations, manufacturing strategy, and building things that matter."
 
   [[params.socialIcons]]
     name = 'linkedin'
