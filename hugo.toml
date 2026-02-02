@@ -1,4 +1,4 @@
-baseURL = 'https://jamesmerrill.dev'
+baseURL = 'https://jamesmerrill-portfolio.netlify.app'
 languageCode = 'en-us'
 title = 'James Merrill'
 theme = 'PaperMod'
