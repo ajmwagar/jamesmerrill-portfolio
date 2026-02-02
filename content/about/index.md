@@ -8,7 +8,7 @@ draft: false
 
 **Chief Operating Officer at [Future Present Labs](https://futurepresentlabs.com)**
 
-> Building the infrastructure for agentic American manufacturing — making it as easy to manufacture in Texas as it is in Shenzhen.
+> Building the infrastructure for agentic American manufacturing — from our headquarters in Seattle.
 
 ---
 
