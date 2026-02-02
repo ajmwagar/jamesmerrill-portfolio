@@ -27,7 +27,7 @@ theme = 'PaperMod'
   [params.profileMode]
     enabled = true
     title = 'James Merrill'
-    subtitle = 'COO at Future Present Labs. Building the future of American manufacturing through operations, strategy, and execution.'
+    subtitle = 'COO at Future Present Labs. Operations leader and entrepreneur building the infrastructure for agentic American manufacturing.'
     imageUrl = '/images/profile.jpg'
     imageWidth = 200
     imageHeight = 200

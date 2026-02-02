@@ -8,28 +8,37 @@ draft: false
 
 **COO at [Future Present Labs](https://futurepresentlabs.com)**
 
-I'm an operations leader and strategist focused on building the future of American manufacturing. At Future Present Labs, I lead our operational strategy, partnerships, and execution as we develop the infrastructure to make domestic manufacturing competitive again.
+I'm an operations leader and entrepreneur based in the Pacific Northwest, focused on building the future of American manufacturing. At Future Present Labs, I run operations and oversee system design and new integrations as we develop the infrastructure to make domestic manufacturing competitive again.
 
-### What I Do
+### Education
 
-**Operations & Strategy**
-- Scaling manufacturing operations from prototype to production
-- Building resilient, geographically distributed supply chains
-- Developing operational frameworks for hardware startups
+**University of Washington**
+- Degree: Real Estate and Business
+- College experience included working on several startups and different companies, giving me early exposure to the business world
 
-**Manufacturing Technology**
-- Agentic manufacturing systems and AI-driven workflows
-- Digital infrastructure for manufacturer matching and quoting
-- Supply chain visibility and optimization
+### My Journey
 
-**Industrial Policy & Reshoring**
-- Navigating the regulatory and policy landscape for domestic manufacturing
-- Building partnerships across the industrial ecosystem
-- Advocating for strategic manufacturing capabilities
+**Event Business**
+- Started a business with friends while exploring opportunities after college
+- Initially focused on hosting private events
+- Evolved into curating private luxury events for high net worth individuals
+- Operated in Bellevue and Seattle
+- Featured a private speakeasy-like lounge venue
 
-### Background
+**Caviar Business**
+- Transitioned from events to luxury goods
+- Built relationships with high-end clientele
+- Currently preparing for brand launch at end of month
+- Receiving new tins and supplies for the launch
 
-[This section can be customized with your specific background, previous roles, education, etc.]
+**Future Present Labs**
+- Current focus and main project
+- Role: Chief Operating Officer
+- Responsibilities:
+  - Running day-to-day operations
+  - Overseeing system design and architecture
+  - Managing new integrations and partnerships
+  - Building operational infrastructure for agentic manufacturing
 
 ### What I'm Building
 
@@ -43,12 +52,11 @@ Our mission is simple: make it as easy to manufacture in Texas as it is in Shenz
 
 ### Outside of Work
 
-When I'm not thinking about manufacturing operations, you can find me [customize with your interests: hiking, reading, brewing coffee, etc.].
+When I'm not optimizing operations or building systems, you can find me exploring the Pacific Northwest, discovering new culinary experiences, or planning my next entrepreneurial venture.
 
 ### Get in Touch
 
 - Email: [james@futurepresentlabs.com](mailto:james@futurepresentlabs.com)
-- LinkedIn: [linkedin.com/in/jamesmerrill](https://linkedin.com/in/jamesmerrill)
-- Twitter: [@jamesmerrill](https://twitter.com/jamesmerrill)
+- LinkedIn: [linkedin.com/in/james-merrill](https://linkedin.com/in/james-merrill)
 
-I'm always interested in connecting with folks working on industrial tech, manufacturing, or operations. Feel free to reach out.
+I'm always interested in connecting with folks working on manufacturing, operations, luxury goods, or interesting business ventures. Feel free to reach out.
