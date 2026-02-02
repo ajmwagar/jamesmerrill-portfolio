@@ -8,7 +8,7 @@
 
 [context.production.environment]
   HUGO_ENV = "production"
-  HUGO_BASEURL = "https://jamesmerrill.dev/"
+  HUGO_BASEURL = "https://jamesmerrill-portfolio.netlify.app/"
 
 [context.deploy-preview]
   command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
