@@ -6,43 +6,23 @@ draft: false
 
 ## Get in Touch
 
-I'm always interested in connecting with people working on manufacturing, operations, luxury goods, entrepreneurship, or just interesting business ventures.
+I'm always interested in connecting with people working on manufacturing, operations, or interesting business ventures.
 
-### Ways to Reach Me
+### Professional
 
-**Professional Inquiries**
-- Use the form below or reach out via LinkedIn
-- For business opportunities, partnership discussions, or manufacturing inquiries
+- [LinkedIn](https://linkedin.com/in/james-merrill)
+- [Future Present Labs](https://futurepresentlabs.com)
 
-**LinkedIn**
-- [linkedin.com/in/james-merrill](https://linkedin.com/in/james-merrill)
-- Best for: professional networking, quick connections, public conversation
+### About Me
 
-**Future Present Labs**
-- Visit [futurepresentlabs.com](https://futurepresentlabs.com) for company inquiries
-- Team contact: [hello@futurepresentlabs.com](mailto:hello@futurepresentlabs.com)
+Currently serving as COO at Future Present Labs, where we're building the infrastructure for agentic American manufacturing. Previously founded ventures in luxury goods and private events. University of Washington graduate.
 
-### What I'm Interested In Hearing About
+### Interests
 
-- **Manufacturing & Operations** — If you're working on domestic manufacturing, reshoring, or industrial automation
-- **Luxury Goods** — Caviar, high-end events, premium products and services
-- **Hard Tech Startups** — Companies building physical products and the infrastructure to support them
-- **Entrepreneurship** — New ventures, innovative business models, operational challenges
-- **Partnerships** — Collaborations that advance the mission of making American manufacturing competitive
-
-### Response Time
-
-I try to respond to all inquiries within 48 hours. If you don't hear back, feel free to follow up—sometimes things fall through the cracks.
-
-### Speaking & Events
-
-I occasionally speak at events on topics related to:
 - Manufacturing operations and reshoring strategy
 - Building and scaling operational infrastructure
-- Entrepreneurship across industries (events, luxury goods, tech)
+- Entrepreneurship across industries
 - The future of American manufacturing
-
-If you're interested in having me speak at your event, please reach out via LinkedIn with details about the audience, topic, and date.
 
 ---
 
