@@ -10,13 +10,17 @@ I'm always interested in connecting with people working on manufacturing, operat
 
 ### Ways to Reach Me
 
-**Email**
-- [james@futurepresentlabs.com](mailto:james@futurepresentlabs.com)
-- Best for: business inquiries, partnership opportunities, manufacturing discussions
+**Professional Inquiries**
+- Use the form below or reach out via LinkedIn
+- For business opportunities, partnership discussions, or manufacturing inquiries
 
 **LinkedIn**
 - [linkedin.com/in/james-merrill](https://linkedin.com/in/james-merrill)
-- Best for: professional networking, quick connections
+- Best for: professional networking, quick connections, public conversation
+
+**Future Present Labs**
+- Visit [futurepresentlabs.com](https://futurepresentlabs.com) for company inquiries
+- Team contact: [hello@futurepresentlabs.com](mailto:hello@futurepresentlabs.com)
 
 ### What I'm Interested In Hearing About
 
@@ -28,7 +32,7 @@ I'm always interested in connecting with people working on manufacturing, operat
 
 ### Response Time
 
-I try to respond to all emails within 48 hours. If you don't hear back, feel free to follow up—sometimes things fall through the cracks.
+I try to respond to all inquiries within 48 hours. If you don't hear back, feel free to follow up—sometimes things fall through the cracks.
 
 ### Speaking & Events
 
@@ -38,8 +42,8 @@ I occasionally speak at events on topics related to:
 - Entrepreneurship across industries (events, luxury goods, tech)
 - The future of American manufacturing
 
-If you're interested in having me speak at your event, please include details about the audience, topic, and date in your email.
+If you're interested in having me speak at your event, please reach out via LinkedIn with details about the audience, topic, and date.
 
 ---
 
-*Looking for Future Present Labs? Visit [futurepresentlabs.com](https://futurepresentlabs.com) or contact the team at [hello@futurepresentlabs.com](mailto:hello@futurepresentlabs.com).*
+*Building the future of American manufacturing, one operation at a time.*

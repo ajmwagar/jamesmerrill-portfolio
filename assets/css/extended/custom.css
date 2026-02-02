@@ -1,0 +1,314 @@
+:root {
+  --fpl-navy: #0a1628;
+  --fpl-navy-light: #141f35;
+  --fpl-orange: #ff6b35;
+  --fpl-orange-hover: #ff8555;
+  --fpl-slate: #64748b;
+  --fpl-white: #ffffff;
+  --fpl-cream: #f8f9fa;
+}
+
+/* Dark theme base */
+[data-theme="dark"] {
+  --theme: var(--fpl-navy);
+  --entry: var(--fpl-navy-light);
+  --primary: var(--fpl-orange);
+  --secondary: var(--fpl-slate);
+  --tertiary: var(--fpl-navy-light);
+  --content: var(--fpl-cream);
+  --hljs-bg: var(--fpl-navy-light);
+  --code-bg: var(--fpl-navy-light);
+  --border: rgba(255, 107, 53, 0.2);
+}
+
+/* Light theme */
+[data-theme="light"] {
+  --theme: var(--fpl-white);
+  --entry: var(--fpl-cream);
+  --primary: var(--fpl-navy);
+  --secondary: var(--fpl-slate);
+  --tertiary: var(--fpl-cream);
+  --content: var(--fpl-navy);
+  --hljs-bg: var(--fpl-cream);
+  --code-bg: var(--fpl-cream);
+  --border: rgba(10, 22, 40, 0.1);
+}
+
+/* Typography enhancements */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.7;
+}
+
+/* Headings with FPL style */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+
+h2 {
+  font-size: 1.8em;
+  margin-top: 2em;
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid var(--primary);
+  display: inline-block;
+}
+
+/* Profile mode enhancements */
+.profile {
+  text-align: center;
+  padding: 3rem 1rem;
+}
+
+.profile img {
+  border-radius: 50%;
+  border: 4px solid var(--primary);
+  box-shadow: 0 0 30px rgba(255, 107, 53, 0.3);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.profile img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 50px rgba(255, 107, 53, 0.5);
+}
+
+.profile .profile_inner {
+  max-width: 700px;
+}
+
+.profile .profile_inner h1 {
+  font-size: 3em;
+  margin-bottom: 0.2em;
+  background: linear-gradient(135deg, var(--fpl-orange) 0%, #ff8555 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.profile .profile_inner span {
+  font-size: 1.3em;
+  color: var(--secondary);
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+/* Button styling */
+.button {
+  background: var(--fpl-orange);
+  color: white;
+  padding: 12px 28px;
+  border-radius: 6px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  font-size: 0.85em;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(255, 107, 53, 0.3);
+}
+
+.button:hover {
+  background: var(--fpl-orange-hover);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(255, 107, 53, 0.4);
+}
+
+/* Navigation styling */
+.nav {
+  background: rgba(10, 22, 40, 0.95);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--border);
+}
+
+.nav a {
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  font-size: 0.85em;
+}
+
+/* Post entries */
+.post-entry {
+  background: var(--entry);
+  border-radius: 12px;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  border: 1px solid var(--border);
+  transition: all 0.3s ease;
+}
+
+.post-entry:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+  border-color: var(--fpl-orange);
+}
+
+.post-entry .entry-header h2 {
+  border-bottom: none;
+  font-size: 1.5em;
+  margin-top: 0;
+}
+
+.post-entry .entry-content {
+  margin-top: 1rem;
+}
+
+/* Links */
+a {
+  color: var(--fpl-orange);
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--fpl-orange-hover);
+}
+
+/* Content area */
+.post-content {
+  font-size: 1.1em;
+}
+
+.post-content h2 {
+  margin-top: 2.5em;
+  margin-bottom: 1em;
+}
+
+.post-content h3 {
+  margin-top: 2em;
+  color: var(--fpl-orange);
+}
+
+.post-content ul {
+  margin-left: 1.5em;
+}
+
+.post-content li {
+  margin-bottom: 0.5em;
+}
+
+.post-content strong {
+  color: var(--fpl-orange);
+}
+
+/* Footer */
+.footer {
+  background: var(--fpl-navy-light);
+  border-top: 1px solid var(--border);
+  padding: 3rem 0;
+  margin-top: 4rem;
+}
+
+/* Social icons */
+.social-icons a {
+  color: var(--secondary);
+  transition: all 0.3s ease;
+}
+
+.social-icons a:hover {
+  color: var(--fpl-orange);
+  transform: translateY(-3px);
+}
+
+/* Tags */
+.post-tags a {
+  background: var(--fpl-navy-light);
+  border: 1px solid var(--border);
+  color: var(--fpl-orange);
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 0.8em;
+  transition: all 0.2s ease;
+}
+
+.post-tags a:hover {
+  background: var(--fpl-orange);
+  color: white;
+  border-color: var(--fpl-orange);
+}
+
+/* Code blocks */
+.hljs {
+  border-radius: 8px;
+  border: 1px solid var(--border);
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--fpl-navy);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--fpl-slate);
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--fpl-orange);
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .profile .profile_inner h1 {
+    font-size: 2em;
+  }
+  
+  .profile .profile_inner span {
+    font-size: 1.1em;
+  }
+  
+  .post-entry {
+    padding: 1.5rem;
+  }
+}
+
+/* Animation for page load */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.main {
+  animation: fadeIn 0.6s ease-out;
+}
+
+/* Highlight box for important content */
+.highlight-box {
+  background: linear-gradient(135deg, rgba(255, 107, 53, 0.1) 0%, rgba(255, 107, 53, 0.05) 100%);
+  border-left: 4px solid var(--fpl-orange);
+  padding: 1.5rem;
+  margin: 2rem 0;
+  border-radius: 0 8px 8px 0;
+}
+
+/* Experience cards */
+.experience-card {
+  background: var(--entry);
+  border-radius: 12px;
+  padding: 2rem;
+  margin-bottom: 1.5rem;
+  border: 1px solid var(--border);
+  position: relative;
+  overflow: hidden;
+}
+
+.experience-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: 100%;
+  background: var(--fpl-orange);
+}
+
+.experience-card h3 {
+  margin-top: 0;
+  color: var(--fpl-orange);
+}

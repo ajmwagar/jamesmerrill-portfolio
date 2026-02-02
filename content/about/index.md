@@ -4,59 +4,105 @@ date: 2026-02-02T11:00:00-08:00
 draft: false
 ---
 
+<style>
+.experience-card {
+  background: var(--entry);
+  border-radius: 12px;
+  padding: 2rem;
+  margin-bottom: 1.5rem;
+  border: 1px solid var(--border);
+  position: relative;
+  overflow: hidden;
+}
+
+.experience-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: 100%;
+  background: var(--fpl-orange);
+}
+
+.experience-card h3 {
+  margin-top: 0;
+  color: var(--fpl-orange);
+}
+</style>
+
 ## James Merrill
 
-**COO at [Future Present Labs](https://futurepresentlabs.com)**
+**Chief Operating Officer at [Future Present Labs](https://futurepresentlabs.com)**
 
-I'm an operations leader and entrepreneur based in the Pacific Northwest, focused on building the future of American manufacturing. At Future Present Labs, I run operations and oversee system design and new integrations as we develop the infrastructure to make domestic manufacturing competitive again.
+<div class="highlight-box">
+Building the infrastructure for agentic American manufacturing — making it as easy to manufacture in Texas as it is in Shenzhen.
+</div>
+
+---
 
 ### Education
 
 **University of Washington**
-- Degree: Real Estate and Business
-- College experience included working on several startups and different companies, giving me early exposure to the business world
+- B.A. Real Estate and Business
+- Early startup experience across multiple ventures during college
+
+---
 
 ### My Journey
 
+<div class="experience-card">
+
+**Current: Future Present Labs**
+*Chief Operating Officer*
+
+Leading operations and overseeing system design for the next generation of manufacturing infrastructure. Building AgentRFQ — an open standard for machine-to-manufacturer communication.
+
+**Key Responsibilities:**
+- Running day-to-day operations
+- Overseeing system architecture and integrations
+- Managing strategic partnerships
+- Building operational infrastructure for agentic manufacturing
+
+</div>
+
+<div class="experience-card">
+
+**Luxury Goods Venture**
+*Founder*
+
+Transitioned from events to luxury goods with a caviar business, leveraging relationships built with high-net-worth clientele. Currently preparing for brand launch.
+
+</div>
+
+<div class="experience-card">
+
 **Event Business**
-- Started a business with friends while exploring opportunities after college
-- Initially focused on hosting private events
-- Evolved into curating private luxury events for high net worth individuals
-- Operated in Bellevue and Seattle
-- Featured a private speakeasy-like lounge venue
+*Co-Founder*
 
-**Caviar Business**
-- Transitioned from events to luxury goods
-- Built relationships with high-end clientele
-- Currently preparing for brand launch at end of month
-- Receiving new tins and supplies for the launch
+Built and operated a private luxury events company in Bellevue and Seattle, curating exclusive experiences for high-net-worth individuals. Featured a speakeasy-like lounge venue.
 
-**Future Present Labs**
-- Current focus and main project
-- Role: Chief Operating Officer
-- Responsibilities:
-  - Running day-to-day operations
-  - Overseeing system design and architecture
-  - Managing new integrations and partnerships
-  - Building operational infrastructure for agentic manufacturing
+</div>
+
+---
 
 ### What I'm Building
 
-At Future Present Labs, we're creating:
+At **Future Present Labs**, we're creating:
 
-- **AgentRFQ** — An open standard for machine-to-manufacturer communication
-- **AI-powered CAD tools** — Generate RFQ-ready parts from natural language
-- **Domestic supplier networks** — Connecting hardware builders with American manufacturers
+- **🤖 AgentRFQ** — An open standard for machine-to-manufacturer communication
+- **⚡ AI-Powered CAD** — Generate RFQ-ready parts from natural language prompts
+- **🏭 Supplier Networks** — Connecting hardware builders with American manufacturers
 
-Our mission is simple: make it as easy to manufacture in Texas as it is in Shenzhen.
+Our mission: **Systems → Atoms**
 
-### Outside of Work
+Software ate the world. Now it's time for hardware.
 
-When I'm not optimizing operations or building systems, you can find me exploring the Pacific Northwest, discovering new culinary experiences, or planning my next entrepreneurial venture.
+---
 
-### Get in Touch
+### Connect
 
-- Email: [james@futurepresentlabs.com](mailto:james@futurepresentlabs.com)
-- LinkedIn: [linkedin.com/in/james-merrill](https://linkedin.com/in/james-merrill)
+- **LinkedIn:** [linkedin.com/in/james-merrill](https://linkedin.com/in/james-merrill)
+- **Company:** [futurepresentlabs.com](https://futurepresentlabs.com)
 
-I'm always interested in connecting with folks working on manufacturing, operations, luxury goods, or interesting business ventures. Feel free to reach out.
+Always interested in conversations about manufacturing, operations, luxury goods, or interesting business ventures.

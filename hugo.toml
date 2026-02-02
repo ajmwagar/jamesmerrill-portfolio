@@ -5,7 +5,7 @@ theme = 'PaperMod'
 
 [params]
   author = 'James Merrill'
-  description = 'COO at Future Present Labs. Operations, strategy, and building the future of American manufacturing.'
+  description = 'COO at Future Present Labs. Operations leader and entrepreneur building the infrastructure for agentic American manufacturing.'
   defaultTheme = 'dark'
   disableThemeToggle = false
   ShowReadingTime = true
@@ -21,24 +21,27 @@ theme = 'PaperMod'
   comments = false
   hidemeta = false
   hideSummary = false
-  showtoc = false
+  showtoc = true
   tocopen = false
+  
+  # Custom CSS
+  customCSS = ["css/extended/custom.css"]
 
   [params.profileMode]
     enabled = true
     title = 'James Merrill'
-    subtitle = 'COO at Future Present Labs. Operations leader and entrepreneur building the infrastructure for agentic American manufacturing.'
+    subtitle = 'COO at Future Present Labs. Building the infrastructure for agentic American manufacturing.'
     imageUrl = '/images/profile.jpg'
-    imageWidth = 200
-    imageHeight = 200
+    imageWidth = 220
+    imageHeight = 220
     imageTitle = 'James Merrill'
 
     [[params.profileMode.buttons]]
-      name = 'Blog'
-      url = 'posts'
-    [[params.profileMode.buttons]]
       name = 'About'
       url = 'about'
+    [[params.profileMode.buttons]]
+      name = 'Blog'
+      url = 'posts'
     [[params.profileMode.buttons]]
       name = 'Contact'
       url = 'contact'
@@ -49,16 +52,13 @@ theme = 'PaperMod'
 
   [[params.socialIcons]]
     name = 'linkedin'
-    url = 'https://linkedin.com/in/jamesmerrill'
-  [[params.socialIcons]]
-    name = 'twitter'
-    url = 'https://twitter.com/jamesmerrill'
+    url = 'https://linkedin.com/in/james-merrill'
   [[params.socialIcons]]
     name = 'github'
     url = 'https://github.com/jamesmerrill'
   [[params.socialIcons]]
-    name = 'email'
-    url = 'mailto:james@futurepresentlabs.com'
+    name = 'twitter'
+    url = 'https://twitter.com/jamesmerrill'
 
 [menu]
   [[menu.main]]
@@ -67,14 +67,14 @@ theme = 'PaperMod'
     url = '/'
     weight = 10
   [[menu.main]]
-    identifier = 'posts'
-    name = 'Blog'
-    url = '/posts/'
-    weight = 20
-  [[menu.main]]
     identifier = 'about'
     name = 'About'
     url = '/about/'
+    weight = 20
+  [[menu.main]]
+    identifier = 'posts'
+    name = 'Blog'
+    url = '/posts/'
     weight = 30
   [[menu.main]]
     identifier = 'contact'
